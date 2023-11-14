@@ -10,3 +10,5 @@ Flutter Book App Git: https://github.com/putraxor/flutter-book-app
 
 
 https://github.com/Solido/awesome-flutter#navigation
+
+https://fluttercrashcourse.seenickcode.com/courses 
