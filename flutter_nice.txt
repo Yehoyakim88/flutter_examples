@@ -4,3 +4,9 @@ Flutter Cookbook
 https://docs.flutter.dev/cookbook
 
 Flutter PDF Viewer; https://medium.com/@ahmedtahaelelemy/how-to-display-a-pdf-in-flutter-9523e38f4ea1 
+
+Flutter Book App Git: https://github.com/putraxor/flutter-book-app
+
+
+
+https://github.com/Solido/awesome-flutter#navigation
